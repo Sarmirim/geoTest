@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+    "start": "npm run ./test.js"
+  }
+}
